@@ -7,11 +7,11 @@ Principal Software Architect with 18+ years of experience. I specialize in bridg
 ## 🛠️ My Open Source Projects
 I build utilities to solve common "last-mile" automation and UI challenges in the Microsoft ecosystem.
 
-| Project ⚙️ | Description 📝 | Tech Stack 🛠️ |
-| :--- | :--- | :--- |
-| **[PowerShimmer Ultra-Light](https://github.com/spashikanti/SunilP-PowerApps-Shimmer)** | High-performance PCF loading state component. | TypeScript, React, PCF |
-| **[Excel Merge to Master](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)** | Automated consolidation of distributed SharePoint Excel files. | Power Automate, SharePoint |
-| **[Top Rank Emailer](https://github.com/spashikanti/SunilP-FormsToExcel-TopRankEmailer)** | Deadline-aware evaluation and notification engine. | Office Scripts, Forms |
+| Project ⚙️ | Description 📝 | Tech Stack 🛠️ | Stats ⭐ |
+| :--- | :--- | :--- | :--- |
+| **[PowerShimmer Ultra-Light](https://github.com/spashikanti/SunilP-PowerApps-Shimmer)** | High-performance PCF loading state component. | TypeScript, React, PCF | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-PowerApps-Shimmer?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Shimmer/total?style=flat-square&color=blue) |
+| **[Excel Merge to Master](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)** | Automated consolidation of distributed SharePoint Excel files. | Power Automate, SharePoint | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-ExcelMergerToMaster?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-ExcelMergerToMaster/total?style=flat-square&color=blue) |
+| **[Top Rank Emailer](https://github.com/spashikanti/SunilP-FormsToExcel-TopRankEmailer)** | Deadline-aware evaluation and notification engine. | Office Scripts, Forms | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-FormsToExcel-TopRankEmailer?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-FormsToExcel-TopRankEmailer/total?style=flat-square&color=blue) |
 
 ---
 
