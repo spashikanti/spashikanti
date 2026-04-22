@@ -9,6 +9,7 @@ I build utilities to solve common "last-mile" automation and UI challenges in th
 
 | Project ⚙️ | Description 📝 | Tech Stack 🛠️ | Stats ⭐ |
 | :--- | :--- | :--- | :--- |
+| **[PowerImage Ultra-Light](https://github.com/spashikanti/SunilP-PowerApps-Image)** | High-performance PCF loading state component. | TypeScript, React, PCF | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-PowerApps-Image?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Image/total?style=flat-square&color=blue) |
 | **[PowerShimmer Ultra-Light](https://github.com/spashikanti/SunilP-PowerApps-Shimmer)** | High-performance PCF loading state component. | TypeScript, React, PCF | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-PowerApps-Shimmer?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-PowerApps-Shimmer/total?style=flat-square&color=blue) |
 | **[Excel Merge to Master](https://github.com/spashikanti/SunilP-ExcelMergerToMaster)** | Automated consolidation of distributed SharePoint Excel files. | Power Automate, SharePoint | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-ExcelMergerToMaster?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-ExcelMergerToMaster/total?style=flat-square&color=blue) |
 | **[Top Rank Emailer](https://github.com/spashikanti/SunilP-FormsToExcel-TopRankEmailer)** | Deadline-aware evaluation and notification engine. | Office Scripts, Forms | ![Stars](https://img.shields.io/github/stars/spashikanti/SunilP-FormsToExcel-TopRankEmailer?style=flat-square&color=ffd700) ![Downloads](https://img.shields.io/github/downloads/spashikanti/SunilP-FormsToExcel-TopRankEmailer/total?style=flat-square&color=blue) |
@@ -20,7 +21,7 @@ Active contributor to the Microsoft Power Platform ecosystem.
 
 | Platform 🌐 | Role 👷‍♂️ | Focus Area 🎯 |
 | :--- | :--- | :--- |
-| **Power Platform Community** | [Super User](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) | Complex Flow Troubleshooting & PCF Development |
+| **Power Platform Community** | [Moderator/Super User](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) | Complex Flow Troubleshooting & PCF Development |
 | **Technical Blog** | [Author](http://sunilpashikanti.blogspot.com) | Enterprise Governance & Cloud Architecture |
 | **YouTube** | [Creator](https://www.youtube.com/@SunilPashikanti) | Architect's Corner: Tips & Tutorials |
 
