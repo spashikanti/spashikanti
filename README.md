@@ -31,6 +31,7 @@ Active contributor to the Microsoft Power Platform ecosystem.
 | **Power Platform Community** | [Moderator/Super User](https://community.powerplatform.com/profile/?userid=8077d18b-7b47-ee11-be6d-6045bdebe084) | Complex Flow Troubleshooting & PCF Development |
 | **Technical Blog** | [Author](http://sunilpashikanti.blogspot.com) | Enterprise Governance & Cloud Architecture |
 | **YouTube** | [Creator](https://www.youtube.com/@SunilPashikanti) | Architect's Corner: Tips & Tutorials |
+| **Beyond Low-Code** | [Newsletter Author](https://www.linkedin.com/newsletters/beyond-low-code-7452136374884859905/) | Bridging Pro-Code & Low-Code Ecosystems |
 
 ---
 
